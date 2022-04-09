@@ -36,10 +36,6 @@ Image classification data set with pixel-level binary labels；
 """
 ```
 
-### Data Download 
-
-Zurich_Dataset (QuickBird): https://sites.google.com/site/michelevolpiresearch/data/zurich-dataset
-
 ## License
 
 Code is released for non-commercial and research purposes **only**. For commercial purposes, please contact the authors.
